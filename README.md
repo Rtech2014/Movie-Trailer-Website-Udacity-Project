@@ -16,7 +16,7 @@ The files for the project, may be [downloaded here](https://github.com/Rtech2014
 
 ### Theatre object class
 
-The Theatre object class consists of four class variables, a simple constructor method, and a class method for playing a Movie object's movie trailer. The code is located in [entertainment_center.py](https://github.com/Rtech2014/Movie-Trailer-Website-Udacity-Project/blob/master/entertainment_center.py). 
+The Theatre object class consists of four class variables, a simple constructor method, and a class method for playing a Movie object's movie trailer. The code is located in [theatre_videos.py](https://github.com/Rtech2014/Movie-Trailer-Website-Udacity-Project/blob/master/theatre_videos.py). 
 
 #### Constructor method
 
